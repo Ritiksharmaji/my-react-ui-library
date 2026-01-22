@@ -1,0 +1,17 @@
+{
+  "name": "ritik-react-ui-library",
+  "version": "1.1.1",
+  "description": "Reusable React UI components",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "build": "vite build"
+  }
+}
