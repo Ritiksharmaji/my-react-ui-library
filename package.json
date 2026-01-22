@@ -1,6 +1,6 @@
 {
   "name": "ritik-react-ui-library",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Reusable React UI components",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -15,8 +15,7 @@
     "build": "vite build"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Ritiksharmaji/my-react-ui-library"
-}
-
+    "type": "git",
+    "url": "https://github.com/Ritiksharmaji/my-react-ui-library"
+  }
 }
