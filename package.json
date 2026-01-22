@@ -1,6 +1,6 @@
 {
   "name": "ritik-react-ui-library",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Reusable React UI components",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -19,5 +19,4 @@
     "url": "https://github.com/Ritiksharmaji/my-react-ui-library"
   },
   "license": "MIT"
-
 }
