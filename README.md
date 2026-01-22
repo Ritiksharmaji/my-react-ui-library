@@ -1,3 +1,5 @@
+## 📄 License
+MIT © Ritik Sharma
 [![npm version](https://img.shields.io/npm/v/ritik-react-ui-library.svg)](https://www.npmjs.com/package/ritik-react-ui-library)
 
 # My React UI Library
